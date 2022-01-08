@@ -1,0 +1,45 @@
+<style>
+
+#topimage {
+  
+  width: 800px;
+  height: 500px;
+  
+}
+
+#about {
+
+  align: center;
+  width:20%;
+  
+}
+
+
+#id {
+
+background-color:red;
+align : center;
+width:20%;
+
+}
+
+
+.icons{
+
+align: left;
+width: 80%;
+
+}
+
+.quick{
+
+align: right;
+width: 20%;
+
+}
+
+
+
+</style>
+
+
