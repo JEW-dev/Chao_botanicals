@@ -3,19 +3,18 @@
 *{
 	margin:0;
 	padding:0;
-
 	box-sizing: border-box;
-    }
+  }
 
 
  a{
 	text decoration: none;
 	color: #555;
 }
-p{
-	color: #555;
-}
 
+ p{
+	color: #555;
+  }
 
 .row {
     display: flex;
@@ -33,7 +32,7 @@ p{
 	padding_right:0px;
 }
 
-.btn{
+#btn{
 	display:inline-block;
 	background: #ff523b;
 	color:#fff;
@@ -41,7 +40,8 @@ p{
 	margin: 30px 0;
 	border-radius: 30px;
 }
-.btn:hover{
+
+#btn:hover{
 	background: #563434;
 }
 
