@@ -79,4 +79,10 @@
   100%{ left: 100%; width: 0%;}
 }
 
-
+.prod1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+	}
